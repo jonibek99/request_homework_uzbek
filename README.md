@@ -1,5 +1,5 @@
 # Python requests kutubxonasi bo'yicha 10 ta uyga vazifa
-
+# Vazifalarni faqat kutubxona yordamida bajarish kerak. Funktsiyalarni yaratish shart emas.
 ## 1. Topshiriq – Saytga so'rov yuboring
 ```python
 # https://example.com sahifasiga GET so'rov yuboring va javob holatini (status_code) ekranga chiqaring.
